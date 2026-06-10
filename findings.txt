@@ -1,0 +1,26 @@
+SOC Incident Investigation Findings
+
+Investigation Date: June 2026
+
+Events Investigated:
+- Event ID 4624 (Successful Logon)
+- Event ID 4625 (Failed Logon)
+
+Findings:
+
+1. Successful Logons
+- A total of 794 successful logon events were identified.
+- These events indicate successful authentication activities by users, services, and system processes.
+- No unusual authentication patterns were observed during the investigation.
+
+2. Failed Logons
+- No Event ID 4625 records were identified.
+- No failed authentication attempts were detected during the review period.
+
+3. Security Assessment
+- Authentication activity appeared normal.
+- No evidence of brute-force attacks was observed.
+- No suspicious login activity was identified.
+
+Conclusion:
+The reviewed Windows Security logs showed normal authentication activity with no failed login attempts or indicators of unauthorized access.
